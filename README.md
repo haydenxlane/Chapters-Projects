@@ -2,7 +2,7 @@
 
 <b>Chapter I</b>
 
-Starting a program:
+Starting a program (car.py):
 
 A program can be simply launched in the terminal by running a python command and providing the name of the file:
 
@@ -18,7 +18,7 @@ The program is using Invoke module, therefore instalation may be required. The e
 
 $ pip install invoke
 
-Starting a program:
+Starting a program (tasks.py) :
 
 To run the program, the relevant task managing script needs to be created as tasks.py. All the commands need to be passed to the terminal as follows:
 
@@ -33,7 +33,7 @@ Functions and possible arguments:
 
 <b> Chapter III</b>
 
-Starting the program:
+Starting the program (number.py) :
 
 The program can be launched by simply running the python command along with the name of the file in the terminal:
 

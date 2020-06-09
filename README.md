@@ -14,7 +14,7 @@ Program will ask for additional details in order to create an instance of a Car 
 
 <b>Chapter II</b>
 
-The program is using Invoke module, therefore instalation may be required. The easiest to do it is with pip:
+The program is using Invoke module, therefore instalation may be required. The easiest way to do it is with pip:
 
 $ pip install invoke
 

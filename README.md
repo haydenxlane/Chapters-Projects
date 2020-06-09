@@ -22,7 +22,7 @@ Starting a program (tasks.py) :
 
 To run the program, task managing script needs to be created as tasks.py. All the commands need to be passed to the terminal as follows:
 
-invoke function name --argument1 --argument2 etc
+invoke function-name --argument1 --argument2 etc
 
 Functions and possible arguments:
 
